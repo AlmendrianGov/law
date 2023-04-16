@@ -1,2 +1,2 @@
 # law
-Almendrian Law
+USR Almendrian and AR Law
